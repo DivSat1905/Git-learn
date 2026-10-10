@@ -1,5 +1,6 @@
 "Hello Git!" This is my first line.
 This is second line.
 Third line added in feature-1
-fourth line added in local repo
+fourth line added in local report
+fifth line added from remote.
 
