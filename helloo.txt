@@ -1,2 +1,3 @@
-"Hello Git!" This is my first line
+"Hello Git!" This is my first line.
+This is second line.
 
